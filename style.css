@@ -137,7 +137,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #2b5535;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -162,11 +162,11 @@ ul {
     background-color: var(--color-button-hover);
 }
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #0b9c3b;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #7e5a4c;
+    --color-button-hover: #206e7f;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
